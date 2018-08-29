@@ -17,6 +17,9 @@ Syntax highlighted code block
 #### Header 4
 ##### Header 5
 
+# Things I like about CS 193
+# IT'S SUPER AWESOME AND IT TAUGHT ME SKILLS THAT I WILL BE ABLE TO CARRY FOR THE REST OF MY CAREER AND LIFE. 
+
 - Bulleted
 - List
 
